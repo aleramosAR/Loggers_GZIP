@@ -1,0 +1,8 @@
+{"message":"No estas autorizado para ingresar a esta ruta","level":"warn"}
+{"message":"Usuario [object Object] se deslogueo a las Sun Jul 18 2021 23:13:02 GMT-0300 (hora estándar de Argentina)","level":"warn"}
+{"message":"No estas autorizado para ingresar a esta ruta","level":"warn"}
+{"message":"Usuario [object Object] se deslogueo a las Sun Jul 18 2021 23:13:17 GMT-0300 (hora estándar de Argentina)","level":"warn"}
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
+{"message":"No estas autorizado para ingresar a esta ruta","level":"warn"}
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
+{"message":"invalid json response body at http://localhost:8080/api/mensajes reason: Unexpected token < in JSON at position 0","type":"invalid-json","level":"error"}
